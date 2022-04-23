@@ -32,7 +32,7 @@ public class Programmer : Person
 }
 class Program
 {
-    static void Main2(string[] args)
+    static void Main(string[] args)
     {
         //创建Programmer列表，并添加对象
         List<Programmer> list = new List<Programmer>();
