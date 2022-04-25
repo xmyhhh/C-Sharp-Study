@@ -10,17 +10,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atrribute", "Atrribute\Atrribute.csproj", "{C951889C-00B7-459E-9899-17BD49627FC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atrribute", "Atrribute\Atrribute.csproj", "{C951889C-00B7-459E-9899-17BD49627FC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection\Reflection.csproj", "{801A95E3-426C-4A60-904C-5833ACC03494}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reflection", "Reflection\Reflection.csproj", "{801A95E3-426C-4A60-904C-5833ACC03494}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event", "Event\Event.csproj", "{52C92DBD-C22C-4DA6-80CB-FB92AFADDF44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Event", "Event\Event.csproj", "{52C92DBD-C22C-4DA6-80CB-FB92AFADDF44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{D041267C-0C37-4044-84F0-6B459E1C29EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate", "Delegate\Delegate.csproj", "{D041267C-0C37-4044-84F0-6B459E1C29EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexer", "Indexer\Indexer.csproj", "{3EEBB90B-C772-4B22-8D05-C4DF8C819BCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexer", "Indexer\Indexer.csproj", "{3EEBB90B-C772-4B22-8D05-C4DF8C819BCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic", "Generic\Generic.csproj", "{65377AF7-4F6D-448A-A548-A8C88142FCD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic", "Generic\Generic.csproj", "{65377AF7-4F6D-448A-A548-A8C88142FCD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{8EC4AE4E-66AE-4C4C-BA36-A6C92B17110A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +58,10 @@ Global
 		{65377AF7-4F6D-448A-A548-A8C88142FCD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65377AF7-4F6D-448A-A548-A8C88142FCD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65377AF7-4F6D-448A-A548-A8C88142FCD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EC4AE4E-66AE-4C4C-BA36-A6C92B17110A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC4AE4E-66AE-4C4C-BA36-A6C92B17110A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC4AE4E-66AE-4C4C-BA36-A6C92B17110A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC4AE4E-66AE-4C4C-BA36-A6C92B17110A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
