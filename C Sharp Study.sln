@@ -22,7 +22,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexer", "Indexer\Indexer.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic", "Generic\Generic.csproj", "{65377AF7-4F6D-448A-A548-A8C88142FCD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{8EC4AE4E-66AE-4C4C-BA36-A6C92B17110A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Interface.csproj", "{8EC4AE4E-66AE-4C4C-BA36-A6C92B17110A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerable", "IEnumerator\IEnumerable.csproj", "{C6F9AE01-91F0-47DC-80D9-8F9AC324E4C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection", "Collection\Collection.csproj", "{68048F87-597E-4E96-BC52-1FF943CD5C17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,6 +66,14 @@ Global
 		{8EC4AE4E-66AE-4C4C-BA36-A6C92B17110A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EC4AE4E-66AE-4C4C-BA36-A6C92B17110A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EC4AE4E-66AE-4C4C-BA36-A6C92B17110A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6F9AE01-91F0-47DC-80D9-8F9AC324E4C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F9AE01-91F0-47DC-80D9-8F9AC324E4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F9AE01-91F0-47DC-80D9-8F9AC324E4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F9AE01-91F0-47DC-80D9-8F9AC324E4C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68048F87-597E-4E96-BC52-1FF943CD5C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68048F87-597E-4E96-BC52-1FF943CD5C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68048F87-597E-4E96-BC52-1FF943CD5C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68048F87-597E-4E96-BC52-1FF943CD5C17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
