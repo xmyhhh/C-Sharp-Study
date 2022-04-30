@@ -49,6 +49,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reflection", "Other\Reflect
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serialization", "Other\Serialization\Serialization.csproj", "{BCC072FA-4915-4DE5-8D53-C0AF375948F5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Generic Type Constrain Keywords", "Generic Type Constrain Keywords", "{BD315126-2ACE-4A6D-B835-9C567126C70C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "new constraint", "Keywords\Generic Type Constrain Keywords\new constraint\new constraint.csproj", "{2E943C41-DE00-4E3D-82D7-7BAC826D138E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -119,6 +123,10 @@ Global
 		{BCC072FA-4915-4DE5-8D53-C0AF375948F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCC072FA-4915-4DE5-8D53-C0AF375948F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCC072FA-4915-4DE5-8D53-C0AF375948F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E943C41-DE00-4E3D-82D7-7BAC826D138E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E943C41-DE00-4E3D-82D7-7BAC826D138E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E943C41-DE00-4E3D-82D7-7BAC826D138E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E943C41-DE00-4E3D-82D7-7BAC826D138E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -140,6 +148,8 @@ Global
 		{C896ECEC-2746-4D7E-BB20-4F507548737F} = {5CB95276-9D97-49BC-8AD9-0764315580E2}
 		{A6855916-BF1C-4A77-9EBD-64ACB30B6A91} = {5CB95276-9D97-49BC-8AD9-0764315580E2}
 		{BCC072FA-4915-4DE5-8D53-C0AF375948F5} = {5CB95276-9D97-49BC-8AD9-0764315580E2}
+		{BD315126-2ACE-4A6D-B835-9C567126C70C} = {27CFC0A9-7333-4A6F-8C64-D5F4E6FB66D5}
+		{2E943C41-DE00-4E3D-82D7-7BAC826D138E} = {BD315126-2ACE-4A6D-B835-9C567126C70C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {232A257F-90C1-4DBC-AFEB-FE9BDE409BAE}
