@@ -1,12 +1,13 @@
 # C#编程学习笔记
 目录
-## 1. C# basic
+## 1. C# Basic
 ### a. Class
 ### b. Struct
 ### c. Record
 ### d. Interface
 ### e. Delegates
-### f. Event
+### f. [Event](./Basic/Event)
+
 ### g. Generic
 ### h. Indexer
 
