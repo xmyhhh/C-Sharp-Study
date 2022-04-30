@@ -21,7 +21,7 @@
 ### c. Method Parameters
 * out
 ### d. Generic Type Constrain Keywords
-* [new constraint](./Keywords/Generic_Type_Constrain_Keywords)
+* [new constraint](./Keywords/Generic%20Type%20Constrain%20Keywords)
 * where
 ### e. Access Keywords
 ### f. Literal Keywords
