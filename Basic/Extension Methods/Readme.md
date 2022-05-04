@@ -10,4 +10,4 @@
 
 ## 参考
 [扩展方法](https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/how-to-implement-and-call-a-custom-extension-method),
-[如何实现和调用自定义扩展方法](https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)
+[如何实现和调用自定义扩展方法](https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/clapolymorphismsses-and-structs/extension-methods)
