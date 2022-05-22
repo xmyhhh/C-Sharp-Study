@@ -82,6 +82,7 @@ class Restaurant   //Restaurant可以处理 AnimalBase
     }
 }
 
+
 class MeetingRoom   //MeetingRoom可以处理 AnimalHuman
 {
     List<AnimalHuman> peopel = new List<AnimalHuman>();
@@ -97,6 +98,9 @@ class MeetingRoom   //MeetingRoom可以处理 AnimalHuman
         }
     }
 }
+
+
+
 
 class AnimalGenerater
 {
