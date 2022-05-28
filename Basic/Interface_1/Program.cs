@@ -12,6 +12,7 @@ public interface IMyInterface
 
 public class MyClass : IMyInterface
 {
+    public static int b= 0;
     public int a { get; set; }    //必须声明为public
     public void TetsFunction()   //必须声明为public
     {
