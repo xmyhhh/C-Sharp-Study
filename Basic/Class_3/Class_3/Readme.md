@@ -1,0 +1,2 @@
+﻿#内部class
+https://stackoverflow.com/questions/15190265/using-nested-classes-in-c-sharp-and-c-why-and-when#:~:text=Common%20uses%20for%20nested%20classes%20in%20C%23%20include,nested%20class%20so%20that%20others%20can%27t%20use%20it.
